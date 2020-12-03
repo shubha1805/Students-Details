@@ -1,0 +1,28 @@
+.op-Login-area{
+    margin: 0 auto;
+    text-align: left;
+    width: 500px;
+    top: 25%;
+    background-color: rgb(218, 239, 248);
+   
+}
+
+#button-1, #button-2{
+    margin: 5px;
+}
+
+.text-center{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 25px
+}
+.line{
+    position: relative; 
+   background-color: rgb(19, 44, 36)
+}
+.prefrence{
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    margin: .5rem;
+}

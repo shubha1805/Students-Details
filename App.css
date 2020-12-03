@@ -1,0 +1,30 @@
+
+
+nav{
+ justify-content: space-around !important;
+  background-color: black;
+  color: white;
+  font-size: 50px;
+  position: fixed;
+  margin-bottom: 0px !important;
+  border-radius: 0% !important;
+
+}
+.navbar-brand{
+  text-align: left !important;
+ font-size: 30px;
+  
+}
+.nav-item{
+  display: flex;
+  font-size: 30px;
+  list-style: none;
+  text-align: right !important;
+ 
+}
+.arrays{
+  font-size: 20px;
+}
+.mail{
+  font-style: italic;
+}
